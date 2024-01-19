@@ -3,9 +3,7 @@
 
 Welcome to the Makepill Responsive Website project! This web development project showcases a responsive website for Makepill, created using HTML, CSS, and JavaScript.
 
-## Live Demo
 
-Explore the live demo of the Makepill Responsive Website [here](https://65aa4b348cae7608f679b2ae--silly-gumdrop-46ece8.netlify.app/).
 
 ## GitHub Repository
 
